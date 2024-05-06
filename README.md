@@ -30,7 +30,12 @@
 - Update Store with Trailer video data
 - Embedded the youtube video and make it autoplay and mute
 - Tailwind classes to make it better
-- 
+- Build Secondary Component
+- Build Movie List 
+- Build Movie card
+- Build useUpcomming, useToprated, useNowplaying, usePopularMovies hooks
+
+
 
 
 
